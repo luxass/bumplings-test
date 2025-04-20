@@ -1,4 +1,4 @@
-import { defineConfig } from "../bumplings/src/config";
+import { defineConfig } from "bumplings/config";
 
 export default defineConfig({
   mode: "monolith",
